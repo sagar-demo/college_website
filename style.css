@@ -165,10 +165,11 @@ h3{
 }
 /* campus */
 .campus{
-    width: 80%;
+    width: 100%;
     margin: auto;
     text-align: center;
     padding-top: 30px;
+    background-color:#D3D3D3;
 }
 .campus-col{
     flex-basis: 32%;
